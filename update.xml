@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>1.0.9</version>
-  <url>https://github.com/chrisfch/VijaoldoApp/releases/download/v1.0.9/VijaoldoSetup_v1.0.9</url>
+  <url>https://github.com/chrisfch/VijaoldoApp/releases/download/v1.0.9/SetupBS.msi</url>
   <mandatory>false</mandatory>
   <changelog>Versión inicial del sistema.</changelog>
 </item>
